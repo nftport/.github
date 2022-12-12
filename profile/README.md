@@ -5,7 +5,8 @@
   </a>
 </p>
 
-Simple & powerful NFT infrastructure and APIs. Mint NFTs, deploy contracts, get multi-chain NFT data and enhanced APIs. 
+#### Simple & powerful NFT infrastructure and APIs. Mint NFTs, deploy contracts, get multi-chain NFT data and enhanced APIs. 
+
 - [🔍Multi-Chain Data](https://docs.nftport.xyz/docs/multi-chain-nft-data-quickstart): Highest-quality NFT data at your fingertips with one API – in 60 seconds
 - [🔨Minting & Contracts](https://docs.nftport.xyz/docs/minting-quickstart): Deploy contracts, upload files & metadata to and mint NFTs on Ethereum & Polygon all with a single API call.
 
