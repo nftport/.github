@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://nftport.xyz">
     <img src="nftport-full-text-black-logo-icon.png" height="100">
-    <h3 align="center">NFTPort Examples</h3>
+    <h3 align="center">NFTPort</h3>
   </a>
 </p>
 
