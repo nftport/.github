@@ -14,7 +14,7 @@ Simple & powerful NFT infrastructure and APIs. Mint NFTs, deploy contracts, get 
 
 - [NFTPort Docs](https://docs.nftport.xyz/)
 - [API Status](https://status.nftport.xyz/)
-- [Guides](https://docs.nftport.xyz/docs) Explore tutorials, Quickstarts and more.
+- [Guides](https://docs.nftport.xyz/docs): Explore tutorials, Quickstarts and more.
 - [Error Codes](https://docs.nftport.xyz/docs/error-codes)
 - [Roadmap](https://portal.productboard.com/nftport/1-nftport-public-roadmap/tabs/3-launched)
 - [Open-API](https://api.nftport.xyz/openapi.json)
